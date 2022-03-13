@@ -37,8 +37,8 @@ body {
 .advice {
   position: relative;
   width: 90vw;
-  max-width: 280px;
-  min-height: 100px;
+  max-width: 300px;
+  min-height: 120px;
   margin: 0 auto;
   border-radius: 8px;
   padding: 1.5rem 1rem;
@@ -50,7 +50,7 @@ body {
 .advice__number {
   color: var(--col-primary);
   text-transform: uppercase;
-  font-size: 0.5rem;
+  font-size: 0.8rem;
   font-weight: 800;
   letter-spacing: 2px;
 }
@@ -60,7 +60,7 @@ body {
   font-weight: 800;
   margin-top: 15px;
   margin-bottom: 10px;
-  font-size: 0.8rem;
+  font-size: 1.2rem;
 }
 
 .advice__text::before {
@@ -107,7 +107,7 @@ body {
 
 footer {
   color: var(--col-secondary);
-  font-size: 0.4rem;
+  font-size: 0.7rem;
   margin-top: 60px;
 }
 
